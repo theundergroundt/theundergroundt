@@ -9,7 +9,7 @@
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
@@ -23,7 +23,7 @@
 
 |기간|내용|활동 및 결과|
 |:-----|:-----|:-----|
-| 2025.07~ | SSAFY 14기| ~|
+| 2025.07~ 2026.08| SSAFY 14기| 수료 |
 | 2023.12| 부경대학교 LINC 3.0 캡스톤디자인 단과대학 경진대회 |우수상 |
 |2023.11| 제11회 k-해커톤 대회 |우수상|
 | 2023~2024|지능형 로봇전공 서포터즈 | 서포터즈 활동 |
