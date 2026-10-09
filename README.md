@@ -14,6 +14,7 @@ LLM처럼 결과를 확신할 수 없는 기술을 서비스에 연결할수록,
 | 2026.04 ~ 2026.05 | [HeyGent](https://github.com/theundergroundt/HeyGent/blob/develop/README.md) | AI 오케스트레이션 시각화 플랫폼 | AI / IoT / JiraOps |
 | 2026.02 ~ 2026.03 | [Piview](https://github.com/theundergroundt/Piview/blob/develop/README.md) | AI 스킨케어 추천 서비스 | AI / BE / JiraOps |
 | 2026.01 ~ 2026.02 | [얼음땡 (Icethang)](https://github.com/theundergroundt/Icethang/blob/develop/README.md) | ADHD 아동 집중력 관리 서비스 | BE / JiraOps |
+| 2025.11 ~ 2025.12 | [갈래말래 (Gallae-Mallae)](https://github.com/theundergroundt/Gallae-Mallae-Server/blob/develop/README.md) | 실시간 협업 여행 계획 서비스 | BE |
 
 
 ## 🏆 Awards & Activities
